@@ -15,4 +15,3 @@ Requirements:
 - A Microsoft CA
   - Tested with ADCS on Server 2012r2, Server 2016, and Server 2019
   - Requires an enterprise CA
-  - A special certificate template (details outlined below)
